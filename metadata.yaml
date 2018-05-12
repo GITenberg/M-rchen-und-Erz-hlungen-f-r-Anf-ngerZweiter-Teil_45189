@@ -1,0 +1,29 @@
+_repo: M-rchen-und-Erz-hlungen-f-r-Anf-ngerZweiter-Teil_45189
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Guerber, H. A. (Hélène Adeline)
+    aliases:
+    - Guerber, Hélène Adeline
+    - Guerber, Helene Adeline
+    birthdate: 1859
+    deathdate: 1929
+    gutenberg_agent_id: '5313'
+    url: http://www.gutenberg.org/2009/agents/5313
+description: ''
+gutenberg_issued: '2014-03-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45189'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German language -- Readers'
+- !lcc 'PF'
+title: Märchen und Erzählungen für Anfänger. Zweiter Teil
+url: http://www.gutenberg.org/ebooks/45189
